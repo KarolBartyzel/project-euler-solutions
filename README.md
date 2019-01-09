@@ -1,3 +1,3 @@
-# Propositions of solutions of Project Eulers' tasks with explanation.
+Content: *Propositions of solutions of Project Eulers' tasks with explanation.*
 
-# Author: Karol Bartyzel
+Author: **Karol Bartyzel**
